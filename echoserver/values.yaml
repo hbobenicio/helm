@@ -1,0 +1,7 @@
+# Default values for echoserver.
+# This is a YAML-formatted file.
+namespace: default
+deployment:
+  port: "8080"
+service:
+  port: "8080"
